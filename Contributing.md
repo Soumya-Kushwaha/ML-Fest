@@ -1,6 +1,13 @@
-**Contribution Guidelines** 🎯
+# Contribution Guidelines 🎯
+
+**-> Create a new issue about the project you want to add!**
+
+**-> Wait for the issue to be assigned and then create the Pull Request.**
 
 We welcome contributions from all levels of experience, including immediate beginners. Here is a step-by-step guide on how to clone the repository and create a pull request:
+
+
+## How to make a pull request?
 
 **1. Clone the repository.**
 
