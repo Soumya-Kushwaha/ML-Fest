@@ -10,7 +10,7 @@ ML-Fest is a Hacktoberfest repository for beginner and intermediate machine lear
 Contributing to ML-Fest is a great way to:
 
 * **Learn new machine learning skills.** We have a variety of beginner and intermediate projects to choose from, so you can find something that matches your skill level and interests.
-* **Build your portfolio.** Contributing to open source projects is a great way to build your portfolio and demonstrate your machine learning skills to potential employers.
+* **Build your portfolio.** Contributing to open source projectsxq is a great way to build your portfolio and demonstrate your machine learning skills to potential employers.
 * **Help others learn.** By contributing to ML-Fest, you can help other people learn and grow their machine learning skills.
 
 **How to Contribute? 💻💻💻**
