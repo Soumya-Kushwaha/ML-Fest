@@ -1,7 +1,7 @@
 ---
 name: Documentation based issue
-about: Describe this issue template's purpose here.
-title: ''
+about: This acts as template for adding document related issues.
+title: 'Document based issue'
 labels: documentation
 assignees: ''
 
