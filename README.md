@@ -34,16 +34,16 @@ https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
 ## Machine Learning Models Used and Comparing the Evaluation Scores graphically
 <h2> 1. Linear Regression </h2> 
 
-![page](https://github.com/jainriya9/Breast_Cancer-23/blob/main/mlbreastcancer/lrscore.png?raw=true)
+![page](https://github.com/jainriya9/ML-Fest/blob/main/mlbreastcancer/lrscore.png?raw=true)
 
 
 <h2>2. Decision Tree Classifier </h2> 
 
-![page](https://github.com/jainriya9/Breast_Cancer-23/blob/main/mlbreastcancer/dtcm.png?raw=true)
+![page](https://github.com/jainriya9/ML-Fest/blob/main/mlbreastcancer/dtcm.png?raw=true)
 
 <h2>3. XGBClassifier </h2> 
 
-![page](https://github.com/jainriya9/Breast_Cancer-23/blob/main/mlbreastcancer/xgb.png?raw=true)
+![page](https://github.com/jainriya9/ML-Fest/blob/main/mlbreastcancer/xgb.png?raw=true)
 
 
 <h3> Decision Tree Classifier </h3>
