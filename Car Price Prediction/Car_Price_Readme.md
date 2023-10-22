@@ -22,7 +22,6 @@ https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 ##  Visual Representations 
 <h2> 1. Residual Plot </h2> 
 
-![page](https://github.com/jainriya9/ML-Fest/blob/main/mlbreastcancer/lrscore.png?raw=true)
 
 
 <h2>2.  Wheelbase attribute </h2> 
