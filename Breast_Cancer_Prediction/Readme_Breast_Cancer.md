@@ -22,8 +22,8 @@ https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/jainriya9/Breast_Cancer-23.git
-   cd Breast_Cancer-23
+   git clone https://github.com/jainriya9/ML-Fest.git
+   cd ML-Fest
 
 2. Install the required dependencies using pip:
 
